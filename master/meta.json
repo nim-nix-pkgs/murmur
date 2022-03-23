@@ -1,8 +1,0 @@
-{
-  "desc": "MurmurHash in pure Nim.",
-  "license": "MIT",
-  "name": "murmur",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/olahol/nimrod-murmur/",
-  "version": "master"
-}
