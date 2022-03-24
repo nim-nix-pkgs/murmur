@@ -1,5 +1,5 @@
 {
-  description = ''MurmurHash in pure Nim.'';
+  description = ''MurmurHash algorithm in pure nimrod.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
